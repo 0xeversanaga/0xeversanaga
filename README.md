@@ -27,9 +27,4 @@ currently_learning: ["MySQL", "UI/UX", "Cybersecurity Binary Exploitation"]
 2025 Goals: None
 hobbies: ["Sleeping", "Gaming"]
 ```
-
-## 📜 My Github History
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xeversanaga&layout=donut&theme=compact&card_width=700)
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&&height=100)
