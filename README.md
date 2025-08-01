@@ -30,11 +30,6 @@ hobbies: ["Sleeping", "Gaming"]
 
 ## 📜 My Github History
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xeversanaga&show_icons=true&theme=vue-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xeversanaga&layout=compact&theme=vue-dark&langs_count=8&card_width=468" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xeversanaga&layout=donut)]
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&&height=100)
