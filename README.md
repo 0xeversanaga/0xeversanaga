@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!🌍&fontSize=70)
 
-## About Me And My Interests
+##
+
+## 👨‍💻 About Me And My Interests
 ```yaml
 name: Ever Sanaga
 located_in: Lapasan, Cagayan De Oro City, Philippines
@@ -25,5 +27,11 @@ currently_learning: ["MySQL", "UI/UX", "Cybersecurity Binary Exploitation"]
 hobbies: ["Sleeping", "Gaming"]
 ```
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xeversanaga&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+## 📜 My Github History
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xeversanaga&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xeversanaga&layout=compact&theme=vue-dark&langs_count=8&card_width=297" />
+</a>
