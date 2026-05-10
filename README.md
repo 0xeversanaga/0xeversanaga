@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hello!&20I'm%20Ever🌍&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hello!%20I'm%20Ever🌍&fontSize=70)
 <h1 align="center">
   Let's Talk!💬
 </h1>
@@ -11,7 +11,7 @@ occupation: Student at Liceo De Cagayan University
 education:
     [
         "Self-Taught Programmer",
-        "Aspiring Cyber Security Specialist",
+        "Aspiring Cyber Security Specialist"
     ]
 company: None
 
@@ -21,10 +21,11 @@ field_of_interests:
         "Programming",
         "DevOps",
     ]
+
 technical_background: None
 
 currently_learning: ["MySQL", "UI/UX", "Cybersecurity Binary Exploitation"]
 2025 Goals: None
-hobbies: ["Sleeping", "Gaming"]
+hobbies: ["Sleeping", "Gaming", "Solving CTFs"]
 ```
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&&height=100)
