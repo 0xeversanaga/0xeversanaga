@@ -1,31 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&text=Hello!%20I'm%20Ever🌍&fontSize=70)
-<h1 align="center">
-  Let's Talk!💬
-</h1>
 
 ## 👨‍💻 About Me And My Interests
 ```yaml
 name: Ever Sanaga
-located_in: Lapasan, Cagayan De Oro City, Philippines
+located_in: Cagayan De Oro City, Philippines
 occupation: Student at Liceo De Cagayan University
 education:
     [
         "Self-Taught Programmer",
         "Aspiring Cyber Security Specialist"
     ]
-company: None
 
+company: None
 field_of_interests:
     [
+        "Hacking",
         "Cybersecurity CTFs",
         "Programming",
-        "DevOps",
+        "DevOps"
     ]
 
 technical_background: None
 
-currently_learning: ["MySQL", "UI/UX", "Cybersecurity Binary Exploitation"]
-2025 Goals: None
-hobbies: ["Sleeping", "Gaming", "Solving CTFs"]
+currently_learning: ["Cybersecurity Capture The Flag Challenges"]
+2026 Goals: "Complete all challenges in picoCTF and compete at picoCTF 2027."
+hobbies:
+    [
+          "Sleeping",
+          "Solving CTFs",
+          "Thinking",
+          "Questioning Life
+]
 ```
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&&height=100)
