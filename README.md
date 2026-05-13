@@ -29,7 +29,7 @@ hobbies:
           "Sleeping",
           "Solving CTFs",
           "Thinking",
-          "Questioning Life
-]
+          "Questioning Life"
+    ]
 ```
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&&height=100)
