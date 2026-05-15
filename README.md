@@ -14,7 +14,7 @@ education:
 company: None
 field_of_interests:
     [
-        "Hacking",
+        "Ethical Hacking",
         "Cybersecurity CTFs",
         "Programming",
         "DevOps"
